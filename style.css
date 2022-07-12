@@ -8,3 +8,6 @@ body{
 nav{
     display: flex;
 }
+svg{
+    width: 24px;
+}
