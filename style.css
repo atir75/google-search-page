@@ -2,4 +2,9 @@ body{
     background-color: #202124;
     height: 100vh;
     max-height: 100vh;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    display: flex;
 }
